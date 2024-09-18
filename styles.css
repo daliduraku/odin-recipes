@@ -1,20 +1,27 @@
 #title{
     color: white;
-    background-color: lightgreen;
+    background-color: rgb(93, 188, 220);
     text-align: center;
     width: 300px;
     margin-left: 500px;
-
+    padding: 10px;
+    border: 3px solid blue;
 }
 
 .classp{
-    color: black;
-    background-color: lightgreen;
+    color:blue;
+    background-color: rgb(231, 243, 231);
     text-decoration-line: underline;
-    text-decoration: green;
     font-family: 'Times New Roman', Times, serif;
     display: block;
     width: 150px;
     margin: 50px;
+    padding: 10px;
+    border: 3px solid rgb(36, 93, 200);
+}
+
+a:hover{
+    background-color: rgb(154, 190, 234);
+    font-size: 1.1em;
 }
 
