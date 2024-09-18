@@ -1,10 +1,15 @@
 #title{
     color: white;
     background-color: lightgreen;
+    text-align: center;
 }
 
 .classp{
     color: black;
     background-color: lightgreen;
+    text-decoration-line: underline;
+    text-decoration: green;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
